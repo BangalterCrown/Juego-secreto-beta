@@ -69,7 +69,7 @@ body::before {
 }
 
 .container__texto {
-    margin: 15px 0 15px 0;
+    margin: 16px 0 16px 0;
 }
 
 .container__texto-azul {
@@ -78,7 +78,7 @@ body::before {
 
 .container__input {
     width: 100%;
-    height: 68px;
+    height: 72px;
     border-radius: 16px;
     background-color: #FFF;
     border: none;
